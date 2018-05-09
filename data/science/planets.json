@@ -1,5 +1,5 @@
 {
-  "description": "Planets (including dwarf planets as recognized by the IAU) that orbit the Sun, with their natural satellites.",
+  "description": "Planets with their natural satellites.",
   "planets": [
     {
       "name": "Mercury",
@@ -21,10 +21,6 @@
         "Deimos",
         "Phobos"
       ]
-    },
-    {
-      "name": "Ceres",
-      "moons": []
     },
     {
       "name": "Jupiter",
@@ -210,32 +206,6 @@
         "Neso"
       ]
     },
-    {
-      "name": "Pluto",
-      "moons": [
-        "Charon",
-        "Styx",
-        "Nix",
-        "Kerberos",
-        "Hydra"
-      ]
-    },
-    {
-      "name": "Haumea",
-      "moons": [
-        "Namaka",
-        "Hi'iaka"
-      ]
-    },
-    {
-      "name": "Makemake",
-      "moons": []
-    },
-    {
-      "name": "Eris",
-      "moons": [
-        "Dysnomia"
-      ]
-    }
+
   ]
 }
